@@ -1,0 +1,13 @@
+The allowed commands are:
+1: cp
+2: touch
+3: mkdir
+4: ls
+5: pwd
+6: cat
+7: grep
+8: chmod
+9: diff
+10: cd
+11: exit
+12: help

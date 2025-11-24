@@ -1,0 +1,4 @@
+touch f10.txt
+chmod 755 f10.txt
+ls f10.txt
+exit

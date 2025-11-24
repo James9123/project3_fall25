@@ -1,0 +1,7 @@
+
+mkdir g
+cd g
+touch a.txt
+cp a.txt b.txt
+ls 
+exit

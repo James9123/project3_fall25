@@ -1,0 +1,7 @@
+mkdir a b c d
+cd a
+touch f.txt
+ls
+cd ..
+ls
+exit

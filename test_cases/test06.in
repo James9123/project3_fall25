@@ -1,0 +1,7 @@
+mkdir f
+cd f
+touch a.txt
+touch b.txt
+ls 
+diff a.txt b.txt
+exit
